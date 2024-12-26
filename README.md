@@ -21,6 +21,4 @@ Specialise in AI/ML
 
 ### Others
 
-<a href="https://github.com/professor1324" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=professor1324&langs_count=10&title_color=64748b&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%40%Languages" alt="Top Languages" /></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=professor1324)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/professor1324" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=professor1324&langs_count=10&title_color=64748b&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
