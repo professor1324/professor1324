@@ -4,7 +4,7 @@ professor1324
 CS
 ----------
 
-Specialising in AI/ML
+### Specialising in AI/ML
 
 🌍  Based in sg
 ⚡  Still learning
