@@ -9,21 +9,6 @@ Specialise in AI/ML
 🌍  Based in sg
 ⚡  Still learning
 
-### Editor
-
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a>
-
-</p>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/professor1324" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### Others
-
-<a href="https://github.com/professor1324" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=professor1324&langs_count=100&title_color=64748b&text_color=64748b&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
-
 ### Used
 
 <p align="left">
@@ -52,3 +37,18 @@ Specialise in AI/ML
 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
+
+### Editor
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+<a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a>
+
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/professor1324" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+### Others
+
+<a href="https://github.com/professor1324" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=professor1324&langs_count=100&title_color=64748b&text_color=64748b&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
