@@ -9,7 +9,7 @@ Specialise in AI/ML
 🌍  Based in sg
 ⚡  Still learning
 
-
+<br/>
 
 ### Used
 
