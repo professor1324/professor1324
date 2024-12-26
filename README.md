@@ -4,12 +4,11 @@ professor1324
 CS
 ----------
 
-Specialise in AI/ML
+Specialising in AI/ML
 
 🌍  Based in sg
 ⚡  Still learning
 
-<br/>
 <br/>
 
 ### Used
