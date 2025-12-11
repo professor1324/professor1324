@@ -7,7 +7,7 @@ CS
 #### Specialising in AI/ML
 
 🌍  Based in sg
-⚡  Still learning
+⚡  Always learning
 
 <br/>
 
